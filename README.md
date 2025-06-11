@@ -26,7 +26,7 @@ Um launcher escrito em Rust para executar o instalador do jogo "Grand Line Adven
 curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh
 
 git clone https://github.com/mchael158/Wive-api-FFFFFFFFF.git
-cd grandline-wine-launcher
+cd Wive-api-FFFFFFFFF
 
 cargo build --release
 ```
